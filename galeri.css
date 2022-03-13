@@ -1,0 +1,9 @@
+img {
+    width: 426px;
+    height: 240px;
+    margin: 10px;
+    max-width: max-content;
+}
+body{
+    background-color: rgb(149, 255, 255);
+}
